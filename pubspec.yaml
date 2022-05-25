@@ -15,7 +15,7 @@ dependencies:
   yaml: ^3.1.1
   intl: ^0.16.0
   logger: ^0.7.0+2
-  recase: ^2.0.1
+  recase: ^4.0.0
 
 
   
